@@ -88,15 +88,16 @@ dotnet add package MessageValidation.Kafka
 
 ➡️ [**See all posts on devskillsunlock.com**](https://devskillsunlock.com/)
 
+<!-- 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romain-OD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Romain-OD)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romain-OD&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400)](https://github.com/Romain-OD)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-OD&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Romain-OD)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-OD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Romain-OD)
 
 </div>
 
@@ -106,11 +107,12 @@ dotnet add package MessageValidation.Kafka
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Romain-OD&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Romain-OD&theme=tokyonight&column=7&no-frame=true&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
+-->
 
 ## 🎖️ Certifications & Achievements
 
