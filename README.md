@@ -60,17 +60,14 @@
 | Package | Version | Downloads |
 |---|---|---|
 | [MessageValidation](https://www.nuget.org/packages/MessageValidation) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation?style=flat-square) |
-| [MessageValidation.MqttNet](https://www.nuget.org/packages/MessageValidation.MqttNet) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation.MqttNet?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation.MqttNet?style=flat-square) |
-| [MessageValidation.RabbitMQ](https://www.nuget.org/packages/MessageValidation.RabbitMQ) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation.RabbitMQ?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation.RabbitMQ?style=flat-square) |
-| [MessageValidation.Kafka](https://www.nuget.org/packages/MessageValidation.Kafka) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation.Kafka?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation.Kafka?style=flat-square) |
-| [MessageValidation.FluentValidation](https://www.nuget.org/packages/MessageValidation.FluentValidation) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation.FluentValidation?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation.FluentValidation?style=flat-square) |
-| [MessageValidation.DataAnnotations](https://www.nuget.org/packages/MessageValidation.DataAnnotations) | ![NuGet](https://img.shields.io/nuget/v/MessageValidation.DataAnnotations?style=flat-square&logo=nuget) | ![Downloads](https://img.shields.io/nuget/dt/MessageValidation.DataAnnotations?style=flat-square) |
+
 
 ```sh
 dotnet add package MessageValidation
 dotnet add package MessageValidation.MqttNet
 dotnet add package MessageValidation.RabbitMQ
 dotnet add package MessageValidation.Kafka
+...
 ```
 
 ---
