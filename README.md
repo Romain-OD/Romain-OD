@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏆 **Microsoft MVP** — recognized for community contributions to .NET & Azure *(Aug 2025)*
+- 🏆 **Microsoft MVP** — recognized for community contributions to Dev Tools & .NET *(Aug 2025)*
 - 💼 **Software Engineer** at **CGI** · Greater Ottawa Metropolitan Area 🇨🇦
 - ✍️ **Tech Blogger** at [devskillsunlock.com](https://devskillsunlock.com/) — practical .NET guides, design patterns & architecture
 - 📦 **NuGet Author** — 6 open-source packages powering the **MessageValidation** ecosystem
