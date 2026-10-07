@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-od/)
 [![Blog](https://img.shields.io/badge/Blog-devskillsunlock.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://devskillsunlock.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-@DevSkillsUnlock-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevSkillsUnlock)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/Romain_OD)
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/84c8e823-77b4-4919-9595-59b0a3e48a10)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@romainottonellidabadie)
@@ -20,6 +21,7 @@
 - 🏆 **Microsoft MVP** — recognized for community contributions to Dev Tools & .NET *(Aug 2025)*
 - 💼 **Software Engineer** at **CGI** · Greater Ottawa Metropolitan Area 🇨🇦
 - ✍️ **Tech Blogger** at [devskillsunlock.com](https://devskillsunlock.com/) — practical .NET guides, design patterns & architecture
+- 📺 **YouTube Creator** at [@DevSkillsUnlock](https://www.youtube.com/@DevSkillsUnlock) — .NET tutorials & dev content
 - 📦 **NuGet Author** — 6 open-source packages powering the **MessageValidation** ecosystem
 - 🎯 Passionate about **clean code**, **distributed systems**, **IoT messaging** and **software architecture**
 - 🌐 Bilingual: **Français** 🇫🇷 | **English** 🇨🇦
@@ -129,6 +131,7 @@ dotnet add package MessageValidation.Kafka
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-27K_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-od/)
 [![Blog](https://img.shields.io/badge/Blog-devskillsunlock.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://devskillsunlock.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-@DevSkillsUnlock-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevSkillsUnlock)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_Me-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/Romain-OD)
 
 *⭐ If you find my work helpful, consider starring my repositories and sponsoring on GitHub!*
